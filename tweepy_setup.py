@@ -1,10 +1,10 @@
 import tweepy
 
-api_key = "1gpQ8vay0UnrCz6N9LN4G6MrT"
-api_secret = "ZG6TsPHrJ5xeuh54xG737sg05tIHMhP7l5PxzbQsKAPZKGIrMp"
-bearer_token = r"AAAAAAAAAAAAAAAAAAAAAC8AwQEAAAAAfS4YQtmI6OH2X5g05C6fws5nWsA%3D6UsMyjD7BysSTzPs2kMoP3jZznnr8cPW1qL4dIGdfFs7RIQJpb"
-access_token = "1579348101579608066-Q7DQeIa8gEWlxQeqZG4PgiQSrAGsvI"
-access_token_secret = "cy38ctZUftbQcYKAfUqwytYyfkwiQw5f5uO8NiorvRqcL"
+api_key = ""#put your api key here
+api_secret = " "#put your api_secret key here
+bearer_token = r" "#put your bearer token key
+access_token = " "## put your access token key
+access_token_secret = " "## put your access token secret key 
 
 client = tweepy.Client(bearer_token, api_key, api_secret, access_token, access_token_secret)
 #this will create a tweet in my account with this text 
