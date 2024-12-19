@@ -19,3 +19,11 @@ Before you begin, ensure you have the following:
    - Access Token
    - Access Token Secret
 3. Python installed on your system (version 3.7 or later is recommended).
+
+ ## Installation
+
+1. Clone the repository or copy the script file to your local machine.
+2. Install the Tweepy library:
+
+   ```bash
+   pip install tweepy
